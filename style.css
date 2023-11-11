@@ -15,7 +15,7 @@
 }
 .home #logo {
     margin-left: 2%;
-    color: rgb(17, 128, 0);
+    color:lightgreen;
     font-size: x-large;
 }
 
@@ -44,7 +44,7 @@
 
 
 .home #htitle {
-    color: green;
+    color:lightgreen;
 }
 
 
@@ -55,7 +55,7 @@
     {
     text-align: center;
     margin-top: 3%;
-    color: green;
+    color: lightgreen;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
 }

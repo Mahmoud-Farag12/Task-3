@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.Super {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+.Super h1 {
+    color: rgb(100, 100, 100);
+    font-size: 50px;
+    font-weight: 100;
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.Super p {
+    color: darkgrey;
+    padding: 20px;
+    text-align: center;
+}
+
+.Super .features {
+    width: 100%;
+    margin: 50px;
+    text-align: center;
+}
+
+.Super .features div {
+    width: 21%;
+    height: 200px;
+    float: inline-start;
+    margin: 20px;
+    margin-bottom: 75px;
+}
+
+.Super .features div img {
+    width: 20%;
+    height: 25%;
+    padding-bottom: 30px;
+}
+
+.Super .features div h1 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
